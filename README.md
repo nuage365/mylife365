@@ -89,6 +89,17 @@ Si vous avez des questions, ajoutez moi sur [Linkedin](https://www.linkedin.com/
 
 ![image](https://github.com/nuage365/mylife365/assets/102873102/518eba98-136f-4c9c-9cec-1eeea3740699)
 
+- **Ajout d'icones sur les différentes tables créées pour remplacer l'icone puzzle par défaut :**
+  
+![entite](https://github.com/nuage365/mylife365/assets/102873102/bf9bc2c9-7d30-472e-9e1e-aee662ba5a23)
+![activite](https://github.com/nuage365/mylife365/assets/102873102/a5a127f8-b35c-469e-8dc2-c45c1995122f)
+![Aliment](https://github.com/nuage365/mylife365/assets/102873102/90af12e5-99b6-47c2-96b8-fdd8cabde5e2)
+![categorie](https://github.com/nuage365/mylife365/assets/102873102/a9ffedc5-8f06-4ac6-80f1-de345216602d)
+![constantes](https://github.com/nuage365/mylife365/assets/102873102/bd6b6c47-f9be-441d-9883-fb0091902e36)
+![Habitudes](https://github.com/nuage365/mylife365/assets/102873102/af2bfdf5-78bc-4949-b605-f6f1e62cdcb6)
+![journalhabitude](https://github.com/nuage365/mylife365/assets/102873102/825adeed-7e7d-47a7-ad52-f8423d23552e)
+![unitedemesure](https://github.com/nuage365/mylife365/assets/102873102/0ad83021-8ac9-4af5-81f1-18b0683d04ef)
+![menu](https://github.com/nuage365/mylife365/assets/102873102/18af681e-bba0-4611-b71d-6d4a61bce0b7)
 
 
 
